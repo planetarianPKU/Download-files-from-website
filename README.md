@@ -12,7 +12,7 @@ we have many files like: http://ds.iris.edu/pub/userdata/wilber/sklee/2017-11-15
 And we just need to watch it in the html format following these steps:
 1.View webpage in source code format. Your brower may have that function and you may just click right and click "View webpage source code"option.
 
-2.find all the tag named <herf>.
+2.find all the tag named "href".
   
 3.the links of files that can be downloaded is just after the <herf> and you can choose which to download by setting the end of files that you need.
   
@@ -35,7 +35,7 @@ And we just need to watch it in the html format following these steps:
 我们只需要按照以下步骤以html格式观看它：
 1.以源代码格式查看网页。您的浏览器可能具有该功能，您可以单击右键，然后单击“查看网页源代码”选项。
 
-2.找到所有名为<herf>的标签。
+2.找到所有名为"href"的标签。
   
 3.可以下载的文件链接位于<herf>之后，您可以通过设置所需文件的结尾来选择要下载的文件。
   
