@@ -48,13 +48,14 @@ def download_pdf_series(pdf_links,oklist):
                #     if chunk:
                 #       f.write(chunk)
                 print("%s downloaded!\n" % file_name)
+    print("All videos downloaded!")
     return failed_list
 
 
 
-    print("All videos downloaded!")
+    
 
-    return
+    #return
 links_list=get_pdf_links();
 filepath=r'C:\Users\16000\Desktop';
 #get ok_list from the filepath.
